@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Ph.D student at University of Georgia! My research interests are about plant genomics and highthroughput phenomics. As a next generation plant scientist, I feel there is must for us to learn programming and computer science. 
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:momosan1991@outlook.com)
